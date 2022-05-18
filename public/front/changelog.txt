@@ -1,0 +1,12 @@
+### 2016.06.26 - 1.2
+----------------------
+* Fix: Mobile Menu Home page 9
+
+### 2016.04.18 - 1.1
+----------------------
+* Fix: Isotope layout on chrome or Opera
+* Change: Main slider to full screen slider
+
+### 2016.03.11 - 1.0
+----------------------
+* Initial release
